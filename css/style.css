@@ -20,6 +20,7 @@ body{
 header{
     background-color: #ffffff;
     padding: 10px 15px;
+    margin-bottom: 40px;
 
 }
 
@@ -34,3 +35,39 @@ h1{
     font-size: 40px;
 }
 
+/*---------
+  MAIN RULES
+  ------*/
+
+main{
+    width:800px;
+    background-color:#ffffff;
+    margin: 0 auto;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+/*----------
+  BUTTON SECTION
+  --------*/
+  section{
+    margin-bottom: 2px;
+  }
+
+  .btn{
+    background: transparent;
+    border: 1px solid;
+    padding: 5px 13px;
+    border-radius: 8px;
+  }
+
+  .task{
+    background-color:#14AAF5 ;
+    color: #ffffff;
+    border-color: #14AAF5;
+  }
+ .sect{
+    background-color:#ffffff;
+    color:#C4CBD0;
+    border-color:#C4CBD0;
+ }
