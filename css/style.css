@@ -50,6 +50,7 @@ main{
     background-color:#ffffff;
     margin: 0 auto;
     border-radius: 5px;
+    margin-bottom: 30px;
 }
 
 /*----------
@@ -57,7 +58,7 @@ main{
   --------*/
  .add{
     padding:10px 0 10px 50px;
-    border: 1px solid #F6F8F9 ;
+    border-bottom: 2px solid #F6F8F9 ;
     
  } 
 
@@ -92,7 +93,7 @@ main{
   }
 
   /*-----
-   TASKLIST RULES
+   RULERLIST RULES
    ----*/
 
    .ruler_list{
@@ -109,7 +110,9 @@ main{
     border-radius: 100%;
     font-size: 12px;
    }
-    
+    /*-----
+     TAG RULES
+     -----*/
    .tg{
        display: inline-block;
        font-size: 12px;
@@ -141,4 +144,8 @@ main{
 
    .tg_orange{
     background-color: #FF9B00;
+   }
+
+   .tg_lime{
+    background-color:#A3D116 ;
    }
