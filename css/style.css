@@ -95,8 +95,8 @@ main{
    TASKLIST RULES
    ----*/
 
-   .task_list{
-    padding: 0 0 0 50px;
+   .ruler_list{
+    padding: 10px 0 0 50px;
    }
 
    .cilcle{
@@ -123,6 +123,22 @@ main{
     color: green;
    }
 
+   .discord{
+    color: red;
+   }
+
    .tg_blue{
     background-color: #14AAF5;
+   }
+
+   .tg_purple{
+    background-color: #EC4A9D;
+   }
+
+   .tg_green{
+    background-color:#2CC6AB ;
+   }
+
+   .tg_orange{
+    background-color: #FF9B00;
    }
